@@ -1,0 +1,7 @@
+.project-link {
+    cursor: pointer;
+}
+
+.project-link * {
+    pointer-events: none;
+}
